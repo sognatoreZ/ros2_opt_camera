@@ -1,0 +1,7 @@
+/opt_camera:
+  ros__parameters:
+    camera_name: opt_camera
+
+    exposure_time: 6000.0
+    analog_gain: 32.0
+
